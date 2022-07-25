@@ -7,5 +7,6 @@ During my studies of Computer Science at ETH Zürich, I frequently write cheat s
   - [Discrete Mathematics](DMat.pdf)
   - [Calculus I](Analysis1.pdf) (German)
   - [Calculus II](Analysis2.pdf) (German)
+  - [Probability & Statistics](P&S.pdf)
 - Algorithms
   - [Algorithms & Data Structures](A&D.pdf)
